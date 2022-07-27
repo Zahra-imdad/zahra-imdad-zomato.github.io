@@ -1,0 +1,53 @@
+#banner{
+    background-image: url('https://b.zmtcdn.com/web_assets/81f3ff974d82520780078ba1cfbd453a1583259680.png');
+    background-size: cover;
+    min-height: 480px;
+}
+.nav-link,.para{
+    font-size: 1.3rem;
+}
+.navbar-brand{
+    font-size: 1rem;
+}
+li.nav-item {
+    margin-right: 1rem;
+}
+.pink{
+    background-color: #EF4F5F;
+}
+.grey{
+    color: rgb(156, 156, 156)
+}
+border-grey{
+    border: 1px solid rgb(232, 232, 232);
+}
+img.card-img-top {
+    height: 10rem;
+    object-fit: cover;
+}
+.card:hover{
+    transform: scale(1.1);
+}
+#mob-image{
+    text-align: end;
+}
+.download{
+    width: 20%;
+}
+.gallery .gal-content {
+    width: calc(100% - 1.5rem);
+    bottom: 0px;
+     background: rgba(0,0,0,0.6);
+}
+.service{
+    border-radius: 1.2rem;
+    transition: transform .3s ease;
+}
+.service:hover{
+    transform: scale(1.05);
+}
+.footer{
+    background: rgb(248, 248, 248);
+}
+
+
